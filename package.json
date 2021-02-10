@@ -1,0 +1,20 @@
+{
+  "name": "m7-d8-type-script-practice-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ts-basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isakov56/M7-D8-type-script-practice-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isakov56/M7-D8-type-script-practice-/issues"
+  },
+  "homepage": "https://github.com/Isakov56/M7-D8-type-script-practice-#readme"
+}
